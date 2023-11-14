@@ -21,6 +21,7 @@
         <div class="bg-gray-800 p-4 rounded-md">
           <a class="text-lg font-semibold mb-2" href="https://leo-mandala.github.io/Search/">Git Search</a>
           <p>Application permettant de chercher et regarder les repositories des utilisateur de Github.</p>
+          <img src="assets\logo.svg" alt="">
         </div>
         <div class="bg-gray-800 p-4 rounded-md">
           <a class="text-lg font-semibold mb-2" href="https://leo-mandala.github.io/ChatApp/">Chat App</a>
