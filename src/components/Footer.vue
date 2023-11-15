@@ -1,5 +1,5 @@
 <template>
-    <footer class="bg-gray-900 p-4">
+    <footer class="bg-gray-800 p-4">
       <div class="container mx-auto">
         <p class="text-gray-400 text-center">&copy; 2023 Mandala Léo. Tous droits réservés.</p>
       </div>

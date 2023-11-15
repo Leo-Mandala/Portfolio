@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-gray-900 p-4">
+  <header class="bg-purple-700 p-4">
     <div class="container mx-auto flex justify-between items-center">
       <router-link to="/" class="text-white">Accueil</router-link>
       <div class="lg:hidden">
