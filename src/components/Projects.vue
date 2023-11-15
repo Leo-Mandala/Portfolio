@@ -4,7 +4,7 @@
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
 
       <div class="bg-green-300 p-4 rounded-md relative justify-between bg-opacity-50">
-        <a class="text-lg font-semibold mb-2" href="https://leo-mandala.github.io/ToDos/">portfolio</a>
+        <a class="text-lg font-semibold mb-2" href="https://leo-mandala.github.io/ToDos/">Portfolio</a>
         <p>Blog personnel de presentation de moi meme et mes projets (ce que vous regardez).</p>
         <div class=" flex flex-row  relative">
          <div class="self-end mr-2 mt-2 bg-indigo-500 rounded-full text-white py-1 px-2 text-xs font-semibold">Vue.js</div>
