@@ -14,6 +14,7 @@
 
       <div class="bg-green-300 p-4 rounded-md relative justify-between bg-opacity-50">
         <a class="text-lg font-semibold mb-2" href="https://leo-mandala.github.io/ToDos/">Taches à Faire</a>
+      <!--  <img src="src\assets\Screen.png" alt="Portfolio Preview" class="w-full h-20 object-cover mb-2 rounded-md"> -->
         <p>Une application web simple pour gérer vos tâches quotidiennes.</p>
         <div class=" flex flex-row  relative">
          <div class="self-end mr-2 mt-2 bg-indigo-500 rounded-full text-white py-1 px-2 text-xs font-semibold">Vue.js</div>
